@@ -70,14 +70,14 @@ This project works with a retail transaction dataset containing sales records wi
    Exploratory Analysis
    Business Intelligence Queries
 
-Key Insights
-   Data Quality First: The project begins with comprehensive null-checking across all critical columns before any analysis, ensuring           reliable downstream metrics.
-   Time Intelligence: Shift analysis and monthly ranking demonstrate how to extract actionable business intelligence from raw timestamps.
+##Key Insights
+   **Data Quality First: The project begins with comprehensive null-checking across all critical columns before any analysis, ensuring           reliable downstream metrics.
+   **Time Intelligence: Shift analysis and monthly ranking demonstrate how to extract actionable business intelligence from raw timestamps.
    Granular Segmentation: The gender-category matrix and unique customer counts show how to slice data for targeted marketing insights.
    
-Tools Used
-   SQL (PostgreSQL-compatible syntax)
-   Standard SQL functions and window operations.
+##Tools Used
+   **SQL (PostgreSQL-compatible syntax)
+   **Standard SQL functions and window operations.
     
-Connect
-If you're working through similar SQL projects or have suggestions for additional analyses, feel free to reach out or open an issue.
+##Connect
+**If you're working through similar SQL projects or have suggestions for additional analyses, feel free to reach out or open an issue.
